@@ -1,7 +1,7 @@
 # C++ Coursework
 
-**Overview** 
-A collection of c++ programs from the course: Intro to Algorithmic Problem Solving. 
+## Overview
+A collection of c++ programs from related coursework, showcasing progress throughout semesters. 
 
 
 ## Concepts Demonstrated
@@ -10,3 +10,5 @@ A collection of c++ programs from the course: Intro to Algorithmic Problem Solvi
 - Control structures
 - Functions
 - Problem-solving
+
+**More coming soon
