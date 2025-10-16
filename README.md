@@ -2,7 +2,8 @@
 
 ## Overview
 A collection of c++ programs from related coursework, showcasing progress throughout semesters. 
-**Courses:** Intro to Algorithmic Problem Solving
+
+- **Courses:** Intro to Algorithmic Problem Solving
 
 ## Concepts Demonstrated
 - Recursion
