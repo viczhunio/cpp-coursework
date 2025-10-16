@@ -12,4 +12,4 @@ A collection of c++ programs from related coursework, showcasing progress throug
 - Functions
 - Problem-solving
 
-**More coming soon
+**More coming soon**
